@@ -14,6 +14,7 @@ This fork adds:
 - Automatically buys the most efficient upgrades and buildings (except Farms)  
 - Shows a real-time countdown for saving up to buy an item  
 - Displays status messages permanently on the Store title bar  
+- doesnt autobuy farms because of godzamok mod autosell/rebuy
 - Hotkeys to toggle features:
   - **A**: Autobuy toggle  
   - **F**: Frenzy click toggle  
@@ -22,7 +23,6 @@ This fork adds:
   - **N**: Click fortune ticker  
   - **P**: Toggle "Protect" mode (saves cookies for lucky buffs)  
   - **S**: Show current status  
-  - doesnt autobuy farms because of godzamok mod autosell/rebuy
 
 ## Installation
 

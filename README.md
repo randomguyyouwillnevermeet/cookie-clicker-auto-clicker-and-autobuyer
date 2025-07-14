@@ -1,7 +1,7 @@
 # AutoClickerMod (Modified Version)
 
 This is a modified version of the popular [
-deamondz/Cookie clicker autobuyer](https://gist.github.com/deamondz/2372c8e48d9bcdc7bab4de956fa1e9b7) for **Cookie Clicker**, originally created by [mafukie].  
+deamondz/Cookie clicker autobuyer](https://gist.github.com/deamondz/2372c8e48d9bcdc7bab4de956fa1e9b7) for **Cookie Clicker**, originally created by [deamondz/mafukie].  
 This fork adds:  
 - Real-time countdown status display next to the Store title  
 - status showing "🧠 Thinking..." when idle  
@@ -22,6 +22,7 @@ This fork adds:
   - **N**: Click fortune ticker  
   - **P**: Toggle "Protect" mode (saves cookies for lucky buffs)  
   - **S**: Show current status  
+  - doesnt autobuy farms because of godzamok mod autosell/rebuy
 
 ## Installation
 

@@ -1,2 +1,43 @@
-you have to download it unzip it or extract it and then take the folder you get out of it and paste it in your mods folder its also rec to use godzamok mod because its 100% bonus for FREE just costs like how ever much you can afford because it sells and rebuys it and achivements are allowed
-also its rec to look through both of the files before adding them to the mods folder because its safer like that
+# AutoClickerMod (Modified Version)
+
+This is a modified version of the popular [AutoClickerMod](#) for **Cookie Clicker**, originally created by [Original Author](#).  
+This fork adds:  
+- Real-time countdown status display next to the Store title  
+- Permanent status showing "🧠 Thinking..." when idle  
+- Prevents auto-buying Farms  
+- Other minor UI improvements
+
+## Features
+
+- Automatically clicks the big cookie  
+- Automatically buys the most efficient upgrades and buildings (except Farms)  
+- Shows a real-time countdown for saving up to buy an item  
+- Displays status messages permanently on the Store title bar  
+- Hotkeys to toggle features:
+  - **A**: Autobuy toggle  
+  - **F**: Frenzy click toggle  
+  - **G**: Pop gold cookies  
+  - **M**: Auto-click main cookie  
+  - **N**: Click fortune ticker  
+  - **P**: Toggle "Protect" mode (saves cookies for lucky buffs)  
+  - **S**: Show current status  
+
+## Installation
+
+1. Download the mod script unzip it and put it into your Cookie Clicker mods folder.  
+2. Load the mod from the mods menu in Cookie Clicker.  
+3. enable the mod on steam on options all the way down
+4. Use the hotkeys listed above to control the mod features.
+
+## Credits
+
+- Original mod by [mafukie]
+- Modified by genoclde on discord
+
+## License
+
+This project is open-source and free to use.
+
+---
+
+If you want me to customize this with your GitHub/discord username, original author info, or add any other section, you can!

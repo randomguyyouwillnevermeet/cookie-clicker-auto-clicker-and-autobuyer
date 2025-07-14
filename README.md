@@ -1,6 +1,7 @@
 # AutoClickerMod (Modified Version)
 
-This is a modified version of the popular [AutoClickerMod](#) for **Cookie Clicker**, originally created by [mafukie].  
+This is a modified version of the popular [
+deamondz/Cookie clicker autobuyer](https://gist.github.com/deamondz/2372c8e48d9bcdc7bab4de956fa1e9b7) for **Cookie Clicker**, originally created by [mafukie].  
 This fork adds:  
 - Real-time countdown status display next to the Store title  
 - status showing "🧠 Thinking..." when idle  

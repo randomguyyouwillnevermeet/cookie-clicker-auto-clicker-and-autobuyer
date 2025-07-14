@@ -1,1 +1,2 @@
 you have to download it unzip it or extract it and then take the folder you get out of it and paste it in your mods folder its also rec to use godzamok mod because its 100% bonus for FREE just costs like how ever much you can afford because it sells and rebuys it and achivements are allowed
+also its rec to look through both of the files before adding them to the mods folder because its safer like that

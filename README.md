@@ -1,9 +1,9 @@
 # AutoClickerMod (Modified Version)
 
-This is a modified version of the popular [AutoClickerMod](#) for **Cookie Clicker**, originally created by [Original Author](#).  
+This is a modified version of the popular [AutoClickerMod](#) for **Cookie Clicker**, originally created by [mafukie].  
 This fork adds:  
 - Real-time countdown status display next to the Store title  
-- Permanent status showing "🧠 Thinking..." when idle  
+- status showing "🧠 Thinking..." when idle  
 - Prevents auto-buying Farms  
 - Other minor UI improvements
 

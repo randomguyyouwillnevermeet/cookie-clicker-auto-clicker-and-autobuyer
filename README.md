@@ -11,7 +11,8 @@ This fork adds:
 ## Features
 
 - Automatically clicks the big cookie  
-- Automatically buys the most efficient upgrades and buildings (except Farms)  
+- Automatically buys the most efficient upgrades and buildings (except Farms)
+- Doesnt remove achivements  
 - Shows a real-time countdown for saving up to buy an item  
 - Displays status messages permanently on the Store title bar  
 - doesnt autobuy farms because of godzamok mod autosell/rebuy

@@ -1,4 +1,4 @@
-# CookieCLickerAutoBuyerMod (Modified Version)
+# CookieCLickerAutoBuyerMod 1.1.2 (Modified Version)
 
 This is a modified version of the popular [
 deamondz/Cookie clicker autobuyer](https://gist.github.com/deamondz/2372c8e48d9bcdc7bab4de956fa1e9b7) for **Cookie Clicker**, originally created by [deamondz/mafukie].  
@@ -23,7 +23,15 @@ This fork adds:
   - **M**: Auto-click main cookie  
   - **N**: Click fortune ticker  
   - **P**: Toggle "Protect" mode (saves cookies for lucky buffs)  
-  - **S**: Show current status  
+  - **S**: Show current status
+
+**Changelog:**
+- v1.1.2:
+  - Protect mode starts OFF.
+  - Fixed shaking store UI.
+  - No longer targets background/golden cookie selector upgrades.
+  - Persistent status label near store title.
+  - Better status display: always shows “🧠 Thinking…” if idle.  
 
 ## Installation
 

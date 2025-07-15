@@ -1,4 +1,4 @@
-# AutoBuyerAndAutoClickerMod (Modified Version)
+# CookieCLickerAutoBuyerMod (Modified Version)
 
 This is a modified version of the popular [
 deamondz/Cookie clicker autobuyer](https://gist.github.com/deamondz/2372c8e48d9bcdc7bab4de956fa1e9b7) for **Cookie Clicker**, originally created by [deamondz/mafukie].  
